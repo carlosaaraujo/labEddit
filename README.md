@@ -1,7 +1,9 @@
 <h1 align="center">✏️ Projeto LabEddit</h1>
 
 <h3 align="center">
-  Projeto de fixação de uma rede social similar ao reddit.
+  O LabEddit é um projeto que tem semelhanças com o Reddit, uma plataforma de discussão 
+online, permitindo aos usuários participar de discussões, votar, editar e excluir postagens e 
+comentários. 
 </h3>
 
 ## 📷 Screenshot
